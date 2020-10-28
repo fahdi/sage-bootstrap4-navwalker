@@ -16,7 +16,9 @@
     },
     {
       "name": "Fahad Murtaza",
-      "email": "info@fahdmurtaza.com"
+      "email": "info@fahdmurtaza.com",
+      "homepage": "https://fahdmurtaza.com",
+      "role": "Developer"
     }
   ],
   "require": {
