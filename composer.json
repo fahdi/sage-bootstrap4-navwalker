@@ -1,0 +1,30 @@
+{
+  "name": "fahdi/sage-bootstrap4-navwalker",
+  "description": "Bootstrap 4 Navbar component navwalker for Sage 9 based themes with support for hyperlinking the top level menu item",
+  "keywords": [
+    "wordpress",
+    "bootstrap 4",
+    "navwalker",
+    "navbar"
+  ],
+  "homepage": "https://github.com/fahdi/sage-bootstrap4-navwalker",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Michael W. Delaney",
+      "email": "michael@michaeldelaney.me"
+    },
+    {
+      "name": "Fahad Murtaza",
+      "email": "info@fahdmurtaza.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.3.2"
+  },
+  "autoload": {
+    "files": [
+      "bootstrap4-navwalker.php"
+    ]
+  }
+}
